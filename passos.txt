@@ -1,0 +1,2 @@
+configurando o git
+git push, pull
